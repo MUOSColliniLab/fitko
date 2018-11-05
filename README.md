@@ -1,2 +1,2 @@
 # fitko
-Fitting of population kinetics and oscillations of 2DES datasets.
+MATLAB routines to fit of population kinetics and oscillations of 2DES datasets.
